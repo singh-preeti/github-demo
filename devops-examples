@@ -1,3 +1,4 @@
 1. Dev ops is new gen technology which is overcoming the limitations of agile methodologies
 2. In this process we follow the CI/CD pipeline 
 3. CI continuos integration which is making sure that application is integrated automatically after each phase is developed
+4. CD is continuous deployment/delivery which makes sure that the each phase is being deployed to the client periodically.
