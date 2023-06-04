@@ -2,3 +2,5 @@
 2. In this process we follow the CI/CD pipeline 
 3. CI continuos integration which is making sure that application is integrated automatically after each phase is developed
 4. CD is continuous deployment/delivery which makes sure that the each phase is being deployed to the client periodically.
+5. where for CI we use jenkins which is for automatic integration
+6. For Delivery  we work with Docker images
